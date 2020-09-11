@@ -6,7 +6,7 @@ The model structure is as following:
 
 
 
-<img src="data/model.png" alt="image-20200911170625076" style="zoom: 67%;" />
+<img src="C:/Users/z3456882/OneDrive%2520-%2520UNSW/2019TETBsheet/Keras_predict_power/data/model.png" alt="image-20200911170625076" style="zoom: 67%;" />
 
 
 
@@ -21,4 +21,3 @@ The main program is '[run.py](run.py)'.
 The models are saved in '[saved_models](saved_models)'.
 
 All the results are shown in '[output](output)'  
-

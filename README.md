@@ -1,7 +1,7 @@
 ### Instruction
 
 This code is for the Machine Learning  predicting solar penal power in TETB, UNSW 2019. 
-<img src="data/model.png" alt="image-20200911170625076" style="zoom: 67%;" />
+
 
 All the raw data are in [data/2019](./data/2019) folder.
 

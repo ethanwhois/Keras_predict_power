@@ -6,7 +6,7 @@ The model structure is as following:
 
 
 
-<img src="C:/Users/z3456882/OneDrive%2520-%2520UNSW/2019TETBsheet/Keras_predict_power/data/model.png" alt="image-20200911170625076" style="zoom: 67%;" />
+![image-20200911174428238](data/model.png)
 
 
 
